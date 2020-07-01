@@ -1,2 +1,2 @@
-# rajivtavsalkar.gethub.io
+# rajivtavsalkar.github.io
 Trial and error.
